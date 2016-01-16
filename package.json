@@ -1,5 +1,5 @@
 {
-  "name": "icon-font-sass-template",
+  "name": "icon-font-sass-tpl",
   "version": "0.0.1",
   "description": "A template for Grunt-webfont task using SASS",
   "main": "index.js",
