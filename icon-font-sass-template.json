@@ -1,5 +1,5 @@
 {
-	"baseClass": "ico",
-	"classPrefix": "ico-",
-	"mixinPrefix": "ico"
+	"baseClass": "c-icon",
+	"classPrefix": "c-icon--",
+	"mixinPrefix": "icon"
 }
